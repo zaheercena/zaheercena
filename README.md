@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cryptography
 - 📫 How to reach me: zaheercena@gmail.com
 - ⚡ Fun fact: My Pets are Tech Projects
-<img src="https://cdn.shopify.com/s/files/1/0506/7780/9323/files/Cozmot_Inc_Trifold_Brochure-2.jpg?v=1612249574" alt="Cozmot.com" id="brochure" data-height-percentage="54" data-actual-width="1628" data-actual-height="1063">
-<img src="https://cdn.shopify.com/s/files/1/0506/7780/9323/files/Cozmot_Inc_Trifold_Brochure-1.jpg?v=1612292082" alt="Cozmot.com" id="brochure" data-height-percentage="54" data-actual-width="1628" data-actual-height="1063">
+<!--<img src="https://cdn.shopify.com/s/files/1/0506/7780/9323/files/Cozmot_Inc_Trifold_Brochure-2.jpg?v=1612249574" alt="Cozmot.com" id="brochure" data-height-percentage="54" data-actual-width="1628" data-actual-height="1063">
+<img src="https://cdn.shopify.com/s/files/1/0506/7780/9323/files/Cozmot_Inc_Trifold_Brochure-1.jpg?v=1612292082" alt="Cozmot.com" id="brochure" data-height-percentage="54" data-actual-width="1628" data-actual-height="1063">-->
