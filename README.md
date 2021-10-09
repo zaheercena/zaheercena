@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - <h3>1- Magento </h3>
 - <h3>2- Shopify </h3>
 - <h3>3- PHP Custom Frameworks </h3>
-- 🌱 I’m currently learning PWA React and Vanila-JS
 - 🌱 I’m Wrote many Magento2 Extensions for free use, you can download from https://cozmot.com/extensions/
 - 👯 I’m collaborating as <h3>* Arctic Code Vault Contributor</h3>
 - 🤔 I’m looking to help Cryptography Projects
