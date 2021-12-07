@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: 
 - <h3>1- Magento </h3>
-- Am a Team Lead and Sr. Magento Developer at a USA Company. Am Expert in Magento Custom APIs development, Theming, Extension Development. Have total of 6 years of Experience. I have API's and total Automation Experties I did in Snap.store is having 1000+ child stores and those import Products from Bulk API and also orders are sent to. With Single Command I am cappable of creating 1000 stores from CSv entries.
+- Am a Team Lead and Sr. Magento Developer at a USA Company. Am Expert in Magento Custom APIs development, Theming, Extension Development. Have total of 6 years of Experience. I have API's and total Automation Experties I did in store is having 1000+ child stores and those import Products from Bulk API and also orders are sent to. With Single Command I am cappable of creating 1000 stores from CSv entries.
 - <h3>2- Shopify </h3>
 - <h3>3- PHP Custom Frameworks </h3>
 - 🌱 I h'v Wrote many Magento2 Extensions for free use, you can download from https://cozmot.com/extensions/
