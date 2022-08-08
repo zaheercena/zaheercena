@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: 
-- <h3>1- Magento </h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magento_Logo.svg/121px-Magento_Logo.svg.png" alt="Cozmot.com" id="brochure">
+- <h3>1- Magento </h3> <img src="https://www.pngfind.com/pngs/m/345-3457171_magento-logo-png-transparent-magento-2-logo-svg.png" alt="Cozmot.com" id="brochure">
 - Am a Sr. Magento Developer at Central Tech(Central Group). Am Expert in Magento Custom APIs development, Theming, Extension Development. Have total of 6 years of Experience.
 - <h3>2- Shopify </h3>
 - 🌱 I h'v Wrote many Magento2 Extensions.
