@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Adobe Cloud Commerce:
 - 
 - <h3>Adobe Certified Expert </h3> 
-<img src="https://github.com/zaheercena/zaheercena/blob/main/sc1.png" alt="Cozmot.com" id="brochure" style="max-width: 800px;width: 800px;">
+<img src="https://github.com/zaheercena/zaheercena/blob/main/sc1.png" alt="Cozmot.com" id="brochure" style="">
 
 - Certified Adobe Commerce Developer Expert | AD0-E716
 - I have worked on highly Scalable projects, have total of 8 years of Experience.
