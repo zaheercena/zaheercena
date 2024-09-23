@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 
 - <h3>Adobe Certified Expert </h3> 
 <img src="https://images.credly.com/images/523dfe10-7636-4231-afc1-b8318b523e34/Adobe_Certified_Expert_Experience_Cloud_products_Digital_Badge.png" alt="Cozmot.com" id="brochure" style="max-width: 100%;width: 100px;">
-<img src="https://github.com/zaheercena/zaheercena/blob/main/sc1.png" alt="Cozmot.com" id="brochure" style="max-width: 100%;width: 100px;">
+<img src="https://github.com/zaheercena/zaheercena/blob/main/sc1.png" alt="Cozmot.com" id="brochure" style="max-width: 800px;width: 800px;">
 
 - Certified Adobe Commerce Developer Expert | AD0-E716
 - I have worked on highly Scalable projects, have total of 8 years of Experience.
