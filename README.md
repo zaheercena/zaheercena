@@ -7,9 +7,11 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: 
 - <h3>1- Magento </h3> <img src="https://www.pngfind.com/pngs/m/345-3457171_magento-logo-png-transparent-magento-2-logo-svg.png" alt="Cozmot.com" id="brochure" style="max-width: 100%;width: 100px;">
-- Am a Sr. Magento Developer at Central Tech(Central Group). Am Expert in Magento Custom APIs development, Theming, Extension Development. Have total of 6 years of Experience.
-- <h3>2- Shopify </h3>
-- 🌱 I h'v Wrote many Magento2 Extensions.
+- Certified Adobe Commerce Developer Expert | AD0-E716
+- I have worked on highly Scalable projects, have total of 8 years of Experience.
+- Customized Magento Indexing solution on Large Scale I developed solutions for.
+- Currently working as Magento Developer at Central Group(Asia's biggest retail giant). In past been Team Lead Magento Developer at a USA Company. Am Expert in Magento Custom - - APIs development, Theming, Extension Development.
+
 - 💬 Ask me about <h3>E-commerce Magento</h3>
 - 📫 How to reach me: zaheercena@gmail.com
 - ⚡ Fun fact: My Projects are my Pets
