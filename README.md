@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - <h3>Adobe Certified Expert </h3> 
 <img src="https://github.com/zaheercena/zaheercena/blob/main/sc1.png" alt="Cozmot.com" id="brochure" style="">
 
-- Certified Adobe Commerce Developer Expert | AD0-E716
+- <a href="https://www.credly.com/badges/1fa532e5-4e1e-42e2-9fa4-26624dbd58d1">Certified Adobe Commerce Developer Expert | AD0-E716</a>
 - I have worked on highly Scalable projects, have total of 8 years of Experience.
 - Customized Magento Indexing solution on Large Scale I developed solutions for.
 - Currently working as Magento Developer at Central Group(Asia's biggest retail giant). In past been Team Lead Magento Developer at a USA Company. Am Expert in Magento Custom - - APIs development, Theming, Extension Development.
