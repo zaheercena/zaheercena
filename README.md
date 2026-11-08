@@ -10,9 +10,9 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/zaheercena/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Zaheer Ahmad on LinkedIn" /></a>
-  <a href="mailto:zaheercena@gmail.com"><img src="https://img.shields.io/badge/Email-zaheercena%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email zaheercena@gmail.com" /></a>
-  <a href="https://github.com/zaheercena"><img src="https://img.shields.io/badge/GitHub-zaheercena-181717?style=for-the-badge&logo=github&logoColor=white" alt="Zaheer Ahmad on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/zaheercena/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect with Zaheer Ahmad on LinkedIn" /></a>
+  <a href="mailto:zaheercena@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email zaheercena@gmail.com" /></a>
+  <a href="https://github.com/zaheercena"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="Zaheer Ahmad on GitHub" /></a>
 </p>
 
 <p>
@@ -196,7 +196,7 @@ I'm interested in conversations about software architecture, cloud platforms, an
 **Open to:** Solutions Architect · Principal Solutions Architect · Cloud Solutions Architect · Software Architect · Technical Architect · Enterprise Architect · Technical Lead · Software Engineering Manager
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zaheercena/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Zaheer Ahmad on LinkedIn" /></a>
-  <a href="mailto:zaheercena@gmail.com"><img src="https://img.shields.io/badge/Email-zaheercena%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email zaheercena@gmail.com" /></a>
-  <a href="https://github.com/zaheercena"><img src="https://img.shields.io/badge/GitHub-zaheercena-181717?style=for-the-badge&logo=github&logoColor=white" alt="Zaheer Ahmad on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/zaheercena/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect with Zaheer Ahmad on LinkedIn" /></a>
+  <a href="mailto:zaheercena@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email zaheercena@gmail.com" /></a>
+  <a href="https://github.com/zaheercena"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="Zaheer Ahmad on GitHub" /></a>
 </p>
