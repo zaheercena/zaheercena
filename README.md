@@ -191,9 +191,9 @@ Published apps on the Shopify App Store that I've designed and built, covering s
 
 ## Play: Black Friday Rush
 
-<a href="https://zaheercena.github.io/black-friday-rush/"><img src="./black-friday-rush-preview.png" width="720" alt="Black Friday Rush: an architecture game where you keep an online store running through a midnight sale" /></a>
+<a href="https://zaheercena.github.io/"><img src="./black-friday-rush-preview.png" width="720" alt="Black Friday Rush: an architecture game where you keep an online store running through a midnight sale" /></a>
 
-Keep an online store running through a midnight sale by building a CDN, cache, load balancer and servers. A 3-minute game inspired by peak-traffic architecture. **[Play now](https://zaheercena.github.io/black-friday-rush/)**
+Keep an online store running through a midnight sale by building a CDN, cache, load balancer and servers. A 3-minute game inspired by peak-traffic architecture. **[Play now](https://zaheercena.github.io/)**
 
 ---
 
