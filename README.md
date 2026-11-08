@@ -148,22 +148,19 @@ I believe in building products that solve real business problems.
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaheercena&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="165"
+    src="./profile/stats.svg"
+    height="180"
     alt="Zaheer's GitHub statistics"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaheercena&layout=compact&theme=transparent&hide_border=true"
-    height="165"
-    alt="Most used programming languages"
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Zaheer's most used programming languages"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zaheercena&theme=transparent&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+  <i>Automatically updated daily using GitHub Actions.</i>
 </p>
 
 ---
