@@ -101,7 +101,7 @@ I turn business requirements into scalable, reliable, and maintainable platforms
 
 ## Shopify Apps & Development
 
-Published apps on the Shopify App Store that I've designed and built, covering store monitoring, image SEO, AI imagery, and automated pricing.
+Published apps on the Shopify App Store that I've designed and built, covering store monitoring, image SEO, and automated pricing.
 
 <table>
   <tr>
@@ -111,24 +111,6 @@ Published apps on the Shopify App Store that I've designed and built, covering s
     <td>
       <a href="https://apps.shopify.com/altstar"><b>AltStar</b></a>&nbsp;&nbsp;<sub>SEO · Accessibility</sub><br />
       Finds product images with missing ALT text and generates it in bulk from a store-defined template, with real-time product sync and daily scheduled generation on higher plans.
-    </td>
-  </tr>
-  <tr>
-    <td width="84" align="center">
-      <a href="https://apps.shopify.com/shootify"><img src="https://cdn.shopify.com/app-store/listing_images/54c10e420525ee3a34eedcdd7620bfbc/icon/CPj10Kar1YsDEAE=.png" width="64" alt="Shootify app icon" /></a>
-    </td>
-    <td>
-      <a href="https://apps.shopify.com/shootify"><b>Shootify</b></a>&nbsp;&nbsp;<sub>AI Imagery · Image Editor</sub><br />
-      AI fashion product photography inside Shopify admin: generate on-model visuals, remix products into different poses and backgrounds, and upscale images.
-    </td>
-  </tr>
-  <tr>
-    <td width="84" align="center">
-      <a href="https://apps.shopify.com/altdog-1"><img src="https://cdn.shopify.com/app-store/listing_images/0cfc9173c4bc4492a33117b8fad178cf/icon/CJjpkq6M4I0DEAE=.png" width="64" alt="Alt Dog app icon" /></a>
-    </td>
-    <td>
-      <a href="https://apps.shopify.com/altdog-1"><b>Alt Dog</b></a>&nbsp;&nbsp;<sub>SEO · Automation</sub><br />
-      Automates image ALT text and SEO-friendly image file names for product images — for missing or all images, on demand or on a schedule.
     </td>
   </tr>
   <tr>
@@ -159,7 +141,7 @@ Published apps on the Shopify App Store that I've designed and built, covering s
 |---|---|
 | **Enterprise E-commerce Architecture** | Multi-brand, multi-country Adobe Commerce Cloud and Shopify Plus platforms integrated with PIM, payments, search, translation, and marketplace services |
 | **AWS Solutions Architecture** | Serverless and cloud-native integrations using Lambda, API Gateway, EC2, S3, CloudFront, and Route 53 |
-| **Shopify App Architecture** | Five published apps built on the Shopify Admin API, with scheduled background jobs and bulk catalog operations |
+| **Shopify App Architecture** | Three published apps built on the Shopify Admin API, with scheduled background jobs and bulk catalog operations |
 | **API-First Architecture** | REST and GraphQL APIs and middleware connecting commerce with payment gateways, logistics, OMS, and ERP systems |
 | **Microservices** | Independent integration services and middleware decoupling commerce platforms from back-office systems |
 | **Multi-Tenant Platforms** | An 800-storefront shared Magento platform, and Shopify apps serving many merchants from one codebase |
