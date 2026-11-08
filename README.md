@@ -1,4 +1,44 @@
 
+<h1 align="center">Hi, I'm Zaheer Ahmed 👋</h1>
+
+<h3 align="center">
+  Software Solutions Architect | Cloud & E-commerce Architect
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaheercena/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:zaheercena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/zaheercena">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Solutions Architect** with 10+ years of experience designing, developing, and delivering scalable enterprise software solutions.
+
+My expertise spans enterprise digital commerce, cloud architecture, system integration, and application engineering.
+
+I've worked with international retail brands and enterprise platforms, designing solutions for high-traffic e-commerce environments, complex integrations, and business-critical operations.
+
+I combine hands-on engineering experience with architectural thinking to transform business requirements into scalable, reliable, and maintainable technology solutions.
+
+- 🏗️ Enterprise Solution Architecture & System Design
+- ☁️ AWS Cloud Architecture & Infrastructure
+- 🛒 Adobe Commerce (Magento 2) & Shopify Ecosystems
+- 🔗 API Design, Microservices & System Integration
+- ⚡ Performance Optimization & High Availability
+- 🚀 Digital Transformation & Technical Leadership
+- 🤖 AI-powered Applications & Automation
+
+---
+
 ## 🏆 Professional Certifications
 
 <p align="center">
@@ -40,3 +80,115 @@
 </p>
 
 ---
+
+## 🛠️ Technology Stack
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,cloudflare,linux" alt="Cloud and infrastructure technologies" />
+</p>
+
+### E-commerce & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,wordpress" alt="E-commerce development technologies" />
+</p>
+
+### Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css" alt="Programming technologies" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,vscode" alt="Databases and development tools" />
+</p>
+
+**Additional expertise:**
+
+Adobe Commerce, Magento 2, Shopify Plus, REST APIs, GraphQL, Microservices, Couchbase, AWS architecture, system integration, performance engineering, and enterprise application design.
+
+---
+
+## 💼 Areas of Expertise
+
+| Domain | Expertise |
+|---|---|
+| Solution Architecture | Enterprise Architecture, HLD, LLD, Design Patterns |
+| Cloud Architecture | AWS, High Availability, Scalability, Disaster Recovery |
+| Digital Commerce | Adobe Commerce, Magento 2, Shopify Plus |
+| Backend Engineering | PHP, Node.js, Custom APIs, Microservices |
+| Integration | REST, GraphQL, ERP & Third-party Integrations |
+| Infrastructure | Docker, NGINX, Linux, Cloudflare |
+| Data & Performance | Database Optimization, Indexing, Caching |
+| Technical Leadership | Architecture Reviews, Engineering Strategy, Delivery |
+
+---
+
+## 🚀 Projects & Innovation
+
+I enjoy building practical software products and exploring technologies beyond enterprise projects.
+
+My areas of interest include:
+
+- 🤖 AI-powered SaaS applications
+- 🛍️ Shopify public applications and e-commerce automation
+- 🖼️ Image processing and optimization solutions
+- 🔗 Enterprise integrations and automation tools
+- ☁️ Cloud-native applications and scalable infrastructure
+
+I believe in building products that solve real business problems.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaheercena&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Zaheer's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaheercena&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=zaheercena&theme=transparent&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing software architecture, cloud technologies, digital commerce, AI applications, and innovative engineering solutions.
+
+**Open to opportunities:**
+
+- Solutions Architect
+- Principal Solutions Architect
+- Cloud Solutions Architect
+- Technical Architect
+- Technical Leadership
+
+<p align="center">
+  <a href="mailto:zaheercena@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Contact%20Zaheer-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zaheercena/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building scalable solutions. Solving complex problems. Creating impact through technology.</i>
+</p>
