@@ -25,7 +25,7 @@
   <a href="#shopify-apps--development">Shopify Apps</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#architecture--engineering-portfolio">Architecture</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#technical-skills">Skills</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#game:-black-friday-rush">Game</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#game-black-friday-rush">Game</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#lets-connect">Contact</a>
 </p>
 
