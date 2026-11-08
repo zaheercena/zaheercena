@@ -25,6 +25,7 @@
   <a href="#shopify-apps--development">Shopify Apps</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#architecture--engineering-portfolio">Architecture</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#technical-skills">Skills</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#Game:-Black-Friday-Rush">Game</a>
   <a href="#lets-connect">Contact</a>
 </p>
 
@@ -189,7 +190,7 @@ Published apps on the Shopify App Store that I've designed and built, covering s
 
 ---
 
-## Play: Black Friday Rush
+## Game: Black Friday Rush
 
 <a href="https://zaheercena.github.io/"><img src="./black-friday-rush-preview.png" width="720" alt="Black Friday Rush: an architecture game where you keep an online store running through a midnight sale" /></a>
 
