@@ -69,7 +69,7 @@ I combine hands-on engineering experience with architectural thinking to transfo
 
 <p align="center">
   <a href="https://www.credly.com/badges/ec062ced-71d7-4620-a83b-efe019a9d522">
-    <img src="./AWS-certificate.png" alt="AWS Certified Solutions Architect Associate - Click to verify on Credly" width="420" />
+    <img src="./aws-cert-saa-003.png" alt="AWS Certified Solutions Architect Associate - Click to verify on Credly" width="420" />
   </a>
 </p>
 
