@@ -35,9 +35,16 @@ with a focus on backend engineering, AWS cloud architecture, and production reli
 
 ## About
 
-I'm a **Software Solutions Architect** based in Bangkok, Thailand, with 10+ years of experience across software engineering, enterprise architecture, digital commerce, cloud solutions, and technical leadership.
+I'm a **Software Solutions Architect** based in Bangkok, Thailand (UTC+7). My background as a hands-on backend engineer and team lead shapes how I design, build, and operate commerce platforms.
 
-I turn business requirements into scalable, reliable, and maintainable platforms — owning architecture end to end, from system design and integration strategy through production readiness, performance, and incident resolution. My background as a hands-on backend engineer and team lead keeps my architecture grounded in what teams can actually build and operate.
+### Featured Work
+
+- **H&M Black Friday Virtual Waiting Room.** Designed a waiting room to queue overflow traffic and control storefront admission during peak sales. [View the public reference design](https://github.com/zaheercena/adobe-commerce-waiting-room)
+- **Catalog indexing for 800 storefronts.** Designed custom Magento indexing for a U.S. SaaS client whose storefronts ran on a shared multi-tenant platform.
+- **Production reliability.** Resolved a catalog indexer overflow in MariaDB Galera by migrating its version counter to `BIGINT`. Used blue/green deployments to deliver production releases without downtime.
+- **Regional commerce architecture.** Led solution architecture for H&M and COS e-commerce environments across Southeast Asia, spanning Adobe Commerce Cloud, Shopify Plus, AWS, PIM, payments, search, and marketplace integrations.
+- **Search migration.** Led the move from Elasticsearch to Algolia for a major electronics retailer and optimized Magento catalog indexing.
+
 
 | Area | Focus |
 |---|---|
