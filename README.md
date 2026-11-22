@@ -2,11 +2,11 @@
 
 <h1>Zaheer Ahmad</h1>
 
-<h3>Software Solutions Architect | Cloud & E-commerce Architect</h3>
+<h3>Software Solutions Architect | Backend & Platform Engineering</h3>
 
 <p>
-  10+ years designing, modernizing, and leading enterprise software platforms across<br />
-  digital commerce, AWS cloud architecture, and system integration.
+  10+ years designing, modernizing, and operating enterprise commerce platforms
+with a focus on backend engineering, AWS cloud architecture, and production reliability.
 </p>
 
 <p>
