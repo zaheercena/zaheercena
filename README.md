@@ -1,12 +1,13 @@
+
+
 <div align="center">
 
 <h1>Zaheer Ahmad</h1>
 
-<h3>Software Solutions Architect | Backend & Platform Engineering</h3>
+<h3>Software Solutions Architect | Backend Engineering, Cloud & Applied AI</h3>
 
 <p>
-  10+ years designing, modernizing, and operating enterprise commerce platforms
-with a focus on backend engineering, AWS cloud architecture, and production reliability.
+  10+ years designing, engineering, and operating enterprise software and commerce platforms, with expertise in backend systems, AWS cloud architecture, distributed systems, and applied AI.
 </p>
 
 <p>
@@ -22,6 +23,7 @@ with a focus on backend engineering, AWS cloud architecture, and production reli
 <p>
   <a href="#about">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#certifications">Certifications</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#ai-projects">AI Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#shopify-apps--development">Shopify Apps</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#architecture--engineering-portfolio">Architecture</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#technical-skills">Skills</a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -35,30 +37,35 @@ with a focus on backend engineering, AWS cloud architecture, and production reli
 
 ## About
 
-I'm a **Software Solutions Architect** based in Bangkok, Thailand (UTC+7). My background as a hands-on backend engineer and team lead shapes how I design, build, and operate commerce platforms.
+I'm a **Software Solutions Architect** based in Bangkok, Thailand (UTC+7). My background as a hands-on backend engineer and technical lead shapes how I design, build, and operate enterprise software platforms.
+
+My experience spans enterprise digital commerce, cloud infrastructure, backend engineering, distributed systems, and applied AI. I enjoy taking complex technical challenges from initial concept and architecture through implementation, deployment, and production operation.
 
 ### Featured Work
 
 - **H&M Black Friday Virtual Waiting Room.** Designed a waiting room to queue overflow traffic and control storefront admission during peak sales. [View the public reference design](https://github.com/zaheercena/adobe-commerce-waiting-room)
+- **Custom search and ranking system.** Originated and implemented a bespoke product search and ranking system using AWS services including Valkey, DynamoDB, EventBridge scheduling, and Lambda. Initially launched with serverless components and subsequently optimized operating costs by moving workloads to EC2. The ranking logic was custom-engineered rather than implemented using OpenSearch.
 - **Catalog indexing for 800 storefronts.** Designed custom Magento indexing for a U.S. SaaS client whose storefronts ran on a shared multi-tenant platform.
 - **Production reliability.** Resolved a catalog indexer overflow in MariaDB Galera by migrating its version counter to `BIGINT`. Used blue/green deployments to deliver production releases without downtime.
 - **Regional commerce architecture.** Led solution architecture for H&M and COS e-commerce environments across Southeast Asia, spanning Adobe Commerce Cloud, Shopify Plus, AWS, PIM, payments, search, and marketplace integrations.
 - **Search migration.** Led the move from Elasticsearch to Algolia for a major electronics retailer and optimized Magento catalog indexing.
-
 
 | Area | Focus |
 |---|---|
 | **Architecture** | Enterprise software architecture, microservices, system integrations, REST and GraphQL APIs |
 | **Digital Commerce** | Adobe Commerce / Magento 2, Shopify and Shopify Plus, enterprise, multi-brand, and multi-country commerce |
 | **Cloud** | AWS cloud architecture, high availability, scalability, and disaster recovery |
-| **Performance & Data** | Performance optimization, database architecture, caching, and background processing |
-| **Leadership** | Technical leadership, architecture reviews, mentoring, and digital transformation |
+| **Backend Engineering** | API design, distributed systems, event-driven architecture, performance optimization |
+| **Applied AI** | Computer vision, generative AI workflows, model research, fine-tuning, inference engineering, and deployment |
+| **Leadership** | Technical direction, architecture reviews, engineering leadership, mentoring, and digital transformation |
 
 ### Career Highlights
 
 - **Enterprise fashion retail:** led solution architecture for **H&M and COS** e-commerce environments across Southeast Asia, spanning Adobe Commerce Cloud, Shopify Plus, AWS, PIM, payments, search, and marketplace integrations.
 - **Peak-traffic resilience:** designed traffic-protection and product-ranking capabilities to keep commerce platforms available during the highest-demand sales events.
+- **Custom search engineering:** designed and implemented a product search and ranking system using AWS infrastructure, including an evolution from serverless components to EC2-based workloads for cost optimization.
 - **Multi-tenant scale:** architected a custom Magento indexing approach supporting **800 storefronts** on a single shared platform for a US-based SaaS client.
+- **Applied AI:** originated and drove the core technical development of two AI product-imaging projects, personally owning model research, engineering, inference architecture, and deployments.
 - **Modernization:** led an enterprise search migration from Elasticsearch to Algolia for a major electronics retailer.
 - **Delivery:** led a 14-person cross-functional engineering team and used blue/green deployment strategies for zero-downtime production releases.
 
@@ -109,19 +116,33 @@ I'm a **Software Solutions Architect** based in Bangkok, Thailand (UTC+7). My ba
 
 ## AI Projects
 
-### AI Visual | Virtual Try-On and Product Visualizer
-**Project Originator and Lead**
+I was the **originator and principal technical mind behind both projects**. I drove the concepts, technical direction, model research, engineering, inference architecture, and deployment work.
 
-- Conceived and led an 18-month project to visualize apparel, footwear, and accessories from a single photo.
-- Evaluated open-source models and fine-tuned **IDM-VTON** in **PyTorch** on curated datasets. Managed training on **Google Colab** and **AWS GPU instances**, and deployed inference on AWS.
-- Presented renders for shirts, pants, shorts, and women's long dresses to stakeholders. Documented gaps for traditional Arab dresses and children's apparel and planned improvements.
+My responsibilities extended beyond project architecture or coordination. I personally handled the core model research and experimentation, evaluated and adapted the models, engineered the inference workflows, and led the AWS deployment work. I was directly involved in the technical implementation from initial concept through end-to-end solution delivery.
+
+### AI Visual | Virtual Try-On and Product Visualizer
+
+An AI-powered virtual try-on solution designed to visualize apparel on a person using an input photograph.
+
+- **Project origin and technical direction:** originated the concept and drove the technical development of an 18-month project to generate apparel imagery from a person's photo.
+- **Model research:** independently researched, evaluated, and experimented with open-source computer vision and virtual try-on models to identify the appropriate technical approach.
+- **Model engineering:** fine-tuned **IDM-VTON** using **PyTorch** and curated datasets, taking responsibility for the model adaptation and experimentation process.
+- **Training infrastructure:** engineered training workflows using **Google Colab** and **AWS GPU instances**.
+- **Inference engineering:** designed and implemented the AWS-based inference architecture and model execution workflow.
+- **Deployment:** drove the engineering and deployment work required to make the solution operational.
+- **Validation:** presented generated results for shirts, pants, shorts, and women's long dresses to stakeholders. Identified limitations involving traditional Arab dresses and children's apparel and documented potential improvements.
 
 ### Ghost Mannequin AI Photography
-**Project Originator and Lead**
 
-- Designed an AI photography workflow for e-commerce catalogs to show garment shape, drape, and fabric detail without a visible mannequin.
-- Customized and fine-tuned **IDM-VTON** in **PyTorch** on curated apparel datasets using **Google Colab** and **AWS GPU instances**.
-- Designed the pipeline to pair the customized IDM-VTON model with a second model, using **Any-to-Any** as an architectural reference.
+An AI-powered product photography workflow designed to present garments without a visible mannequin while retaining garment shape, drape, and fabric detail.
+
+- **Project origin and technical direction:** originated the concept and drove the engineering direction for an AI-based e-commerce product photography solution.
+- **Model research:** led research and experimentation into suitable generative AI and computer vision models for the ghost mannequin workflow.
+- **Model engineering:** customized and fine-tuned **IDM-VTON** using **PyTorch** and curated apparel datasets.
+- **Training infrastructure:** built and managed model training workflows using **Google Colab** and **AWS GPU instances**.
+- **Multi-model inference architecture:** designed and engineered a pipeline combining the customized IDM-VTON model with a second model to achieve the intended output.
+- **Architecture research:** evaluated **Any-to-Any** as an architectural reference while developing the multi-model approach.
+- **Inference and deployment:** personally drove the core inference engineering, model integration, AWS deployment, and end-to-end processing workflow.
 
 ---
 
@@ -166,7 +187,9 @@ Published apps on the Shopify App Store that I've designed and built, covering s
 | Capability | In practice |
 |---|---|
 | **Enterprise E-commerce Architecture** | Multi-brand, multi-country Adobe Commerce Cloud and Shopify Plus platforms integrated with PIM, payments, search, translation, and marketplace services |
-| **AWS Solutions Architecture** | Serverless and cloud-native integrations using Lambda, API Gateway, EC2, S3, CloudFront, and Route 53 |
+| **AWS Solutions Architecture** | Serverless and cloud-native integrations using Lambda, API Gateway, EC2, S3, CloudFront, Route 53, DynamoDB, and ElastiCache |
+| **Custom Search & Ranking** | Bespoke ranking algorithms and product discovery using Valkey, DynamoDB, EventBridge, Lambda, and EC2 |
+| **Applied AI & Model Engineering** | Computer vision, generative AI workflows, model research, PyTorch fine-tuning, multi-model inference, GPU training, and AWS model deployment |
 | **Shopify App Architecture** | Three published apps built on the Shopify Admin API, with scheduled background jobs and bulk catalog operations |
 | **API-First Architecture** | REST and GraphQL APIs and middleware connecting commerce with payment gateways, logistics, OMS, and ERP systems |
 | **Microservices** | Independent integration services and middleware decoupling commerce platforms from back-office systems |
@@ -196,9 +219,10 @@ Published apps on the Shopify App Store that I've designed and built, covering s
 | **E-commerce & Platforms** | Adobe Commerce, Magento 2, Shopify, Shopify Plus, Shopify App Development, Multi-Store and Multi-Brand Commerce, Headless Commerce |
 | **Programming Languages** | PHP, Python, Go (Golang), D, JavaScript, TypeScript, HTML, CSS |
 | **Frameworks & Runtime** | Node.js, React, Remix, Magento 2 framework |
-| **Cloud & Infrastructure** | AWS (EC2, S3, RDS, CloudFront, Route 53, IAM, VPC, Lambda, API Gateway, ElastiCache), Docker, Kubernetes, Linux, NGINX, Cloudflare, Fastly |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Couchbase, Redis |
-| **Search & Enterprise Integration** | Elasticsearch, OpenSearch, Algolia, MuleSoft, Akeneo PIM |
+| **Cloud & Infrastructure** | AWS (EC2, S3, RDS, CloudFront, Route 53, IAM, VPC, Lambda, API Gateway, ElastiCache, DynamoDB), Docker, Kubernetes, Linux, NGINX, Cloudflare, Fastly |
+| **Databases & Caching** | MySQL, PostgreSQL, MongoDB, Couchbase, Redis, Valkey, DynamoDB |
+| **Search & Enterprise Integration** | Elasticsearch, OpenSearch, Algolia, Custom Product Ranking, MuleSoft, Akeneo PIM |
+| **Applied AI & Machine Learning** | PyTorch, IDM-VTON, Computer Vision, Generative AI Workflows, Model Research & Evaluation, Model Fine-Tuning, GPU-Based Training, Multi-Model Inference, AWS Model Deployment |
 | **Architecture & Integration** | REST APIs, GraphQL, Microservices, API Integration, Event-Driven Architecture, Distributed Systems, Multi-Tenant Architecture, High Availability, Disaster Recovery |
 | **Tools & IDEs** | GoLand, PhpStorm, Visual Studio Code, Git, GitHub, Docker, Postman, Jenkins |
 
@@ -225,7 +249,7 @@ Keep an online store running through a midnight sale by building a CDN, cache, l
 
 ## Let's Connect
 
-I'm interested in conversations about software architecture, cloud platforms, and enterprise digital commerce.
+I'm interested in conversations about software architecture, cloud platforms, backend engineering, applied AI, and enterprise digital commerce.
 
 **Open to:** Solutions Architect · Principal Solutions Architect · Cloud Solutions Architect · Software Architect · Technical Architect · Enterprise Architect · Technical Lead · Software Engineering Manager
 
@@ -234,3 +258,4 @@ I'm interested in conversations about software architecture, cloud platforms, an
   <a href="mailto:zaheercena@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email zaheercena@gmail.com" /></a>
   <a href="https://github.com/zaheercena"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="Zaheer Ahmad on GitHub" /></a>
 </p>
+
