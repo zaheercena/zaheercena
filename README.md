@@ -107,6 +107,24 @@ I'm a **Software Solutions Architect** based in Bangkok, Thailand (UTC+7). My ba
 
 ---
 
+## AI Projects
+
+### AI Visual | Virtual Try-On and Product Visualizer
+**Project Originator and Lead**
+
+- Conceived and led an 18-month project to visualize apparel, footwear, and accessories from a single photo.
+- Evaluated open-source models and fine-tuned **IDM-VTON** in **PyTorch** on curated datasets. Managed training on **Google Colab** and **AWS GPU instances**, and deployed inference on AWS.
+- Presented renders for shirts, pants, shorts, and women's long dresses to stakeholders. Documented gaps for traditional Arab dresses and children's apparel and planned improvements.
+
+### Ghost Mannequin AI Photography
+**Project Originator and Lead**
+
+- Designed an AI photography workflow for e-commerce catalogs to show garment shape, drape, and fabric detail without a visible mannequin.
+- Customized and fine-tuned **IDM-VTON** in **PyTorch** on curated apparel datasets using **Google Colab** and **AWS GPU instances**.
+- Designed the pipeline to pair the customized IDM-VTON model with a second model, using **Any-to-Any** as an architectural reference.
+
+---
+
 ## Shopify Apps & Development
 
 Published apps on the Shopify App Store that I've designed and built, covering store monitoring, image SEO, and automated pricing.
